@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item
+        android:id="@+id/bilgi"
+        android:title="@string/bilgi"
+        android:orderInCategory="0"
+        app:showAsAction="ifRoom"
+        android:icon="@android:drawable/ic_dialog_info"/>
+    <item
+        android:id="@+id/paylas"
+        android:title="@string/paylas"
+        android:orderInCategory="1"
+        app:showAsAction="ifRoom"
+        android:icon="@android:drawable/ic_menu_share"/>
+</menu>

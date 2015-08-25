@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">\tKBÜ Kaç Gerek?</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="bilgi">Bilgi</string>
+    <string name="info">Kaç Gerek? uygulaması Karabük Üniversitesinde
+        okuyan öğrencilerin vize notları, vize ve final ek puanlarına göre dersi
+        geçmeleri için finalde almaları gereken minimum notu hesaplayabilmeleri
+        için hazırlanmıştır.</string>
+    <string name="yazar">Bu uygulama Tunahan Tolga Yıldız tarafından tasarlanmıştır.
+        Görüş ve önerileriniz için iletişime geçebilirsiniz.</string>
+    <string name="website">tunahantolgayildiz.com</string>
+    <string name="paylas">Paylaş</string>
+    <string name="gecme_not">Dersi geçmeniz için gereken not: </string>
+    <string name="hesapla">Hesapla</string>
+    <string name="temizle">Temizle</string>
+    <string name="kbu">Çağdaş Eğitim Yuvası</string>
+</resources>
